@@ -135,7 +135,7 @@ class Hangar:
         else:
             raise PlaneError("no planes built by '{}'".format(company))
 
-
+                 # catch me bitch
     #check total number of planes that are out of fuel
     def total_empty(self):
         count = 0
